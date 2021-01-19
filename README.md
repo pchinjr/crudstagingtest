@@ -1,2 +1,0 @@
-# crudstagingtest
-Begin app
